@@ -1,7 +1,0 @@
-{
-	"name": "Email capture Sample",
-	"author": "Microsoft",
-	"license": "MIT",
-	"repositoryUrl": "https://github.com/auscoi/altvr-mre-email-capture",
-	"optionalPermissions": ["user-interaction"]
-}
